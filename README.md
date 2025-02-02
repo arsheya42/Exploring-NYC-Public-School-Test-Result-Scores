@@ -6,15 +6,15 @@ This project aims to analyze the performance of New York City (NYC) public schoo
 ## Dataset
 The analysis utilizes the schools.csv dataset, which contains information regarding the SAT performance of NYC public schools. Below is a preview of the dataset's key columns:
 
-Column	Description
-school_id	Unique identifier for each school
-school_name	Name of the school
-city	City where the school is located
-state	State where the school is located
-sat_reading	Average SAT reading score
-sat_math	Average SAT math score
-sat_writing	Average SAT writing score
-total_students	Total number of students enrolled
+| Column | Description |
+| ------------- | ------------- |
+| school_id  | Unique identifier for each school |
+| school_name  | Name of the school |
+| city  | City where the school is located |
+| state  | State where the school is located |
+| sat_reading  | Average SAT reading score |
+| sat_math  | Average SAT math score |
+| total_students  | Total number of students enrolled |
 
 ## Objectives
 
